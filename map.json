@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"..\/..\/Version_DK002"
         }
     },
  "height":34,
@@ -149,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/Dienstkarte-master\/tilesets_deviant_milkian_1.png",
+         "image":"..\/..\/Dienstkarte-master\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -883,7 +884,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/Dienstkarte-master\/floortileset.png",
+         "image":"..\/..\/Dienstkarte-master\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
