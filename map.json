@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.pankepiraten.de\/folterkammer\/opa-humppa\/opa-humppa.mp3"
+                 "value":"https:\/\/www.pankepiraten.de\/app\/download\/16024029\/opa-humppa.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
