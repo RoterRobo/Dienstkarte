@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/u.osmfr.org\/m\/262696"
+                 "value":"https:\/\/u.osmfr.org\/m\/262696"
                 }, 
                 {
                  "name":"openWebsitePolicy",
