@@ -124,7 +124,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Informationen zum Ehrenamt"
+                 "value":"Mit der Leertaste geht es zu den Informationen zum Ehrenamt"
                 }],
          "type":"tilelayer",
          "visible":true,
