@@ -155,6 +155,11 @@
                  "value":"http:\/\/u.osmfr.org\/m\/262696"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
