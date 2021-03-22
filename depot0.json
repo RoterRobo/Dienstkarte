@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.wikipedia.org\/wiki\/Technisches_Hilfswerk#Helfervereinigungen"
+                 "value":"http:\/\/openfiremap.de\/?zoom=12&lat=52.31791&lon=13.65832&layers=0B0000T"
                 }],
          "type":"tilelayer",
          "visible":true,
