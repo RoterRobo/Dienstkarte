@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/www.pankepiraten.de\/app\/download\/16024029\/opa-humppa.mp3"
+                 "value":"depot1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
