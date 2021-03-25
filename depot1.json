@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"depot0.json"
+                 "value":"depot0.json#startvonOG"
                 }],
          "type":"tilelayer",
          "visible":true,
