@@ -275,7 +275,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.wikipedia.org\/wiki\/Technisches_Hilfswerk"
+                 "value":"https:\/\/www.koenigs-wusterhausen.de\/966713\/Verzoegerungen-bei-Arbeiten-an-der-Klappbruecke-Neue-Muehle"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -285,7 +285,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Mit der Leertaste geht es zu den Informationen zum THW"
+                 "value":"Mit der Leertaste geht es zu einer Sperrungsmeldung"
                 }],
          "type":"tilelayer",
          "visible":true,
