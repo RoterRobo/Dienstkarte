@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":13,
  "infinite":false,
  "layers":[
@@ -324,6 +331,15 @@
          "tiles":[
                 {
                  "id":15,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":37,
                  "properties":[
                         {
                          "name":"collides",
